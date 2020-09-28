@@ -73,6 +73,6 @@ h1 {
   .person {
     flex-basis: 50%;
     text-align: left;
-    margin: 0px;
+    margin: 10px;
   }
 }
